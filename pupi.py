@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 import os
-os.chdir(os.path.dirname(__file__))
+os.path.abspath(__file__)
 from pprint import pprint
 import colorama
 from colorama import init
