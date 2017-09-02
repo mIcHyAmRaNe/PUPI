@@ -1,13 +1,12 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
+import sys
 import os
 os.path.abspath(__file__)
-from pprint import pprint
 import colorama
-from colorama import init
+from colorama import Fore, Back, Style, init
 init()
-from colorama import Fore, Back, Style
 
 
 print (Fore.RED+"Passwords.txt will be overwrited, so please copy your old one!")
