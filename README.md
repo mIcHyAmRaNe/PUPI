@@ -7,8 +7,11 @@ With its 5292 combinations, Pupi offers you the ability to create a wordlist of 
 
 #### Usage:
 - make sure you have python 3.x installed 
-- ``python pupi.py`` or ``py -3 pupi.py``
+- ``python3 pupi.py`` or ``py -3 pupi.py``
 - the wordlist created by Pupi will be in the same folder than the script.
+
+[![asciicast](https://asciinema.org/a/137214.png)](https://asciinema.org/a/137214)
+
 ##### Note: 
 **``Passwords.txt`` file will be overwrited at each usage, So make sure to save your old generated passwords in an other folder**
 
