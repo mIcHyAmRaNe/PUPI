@@ -16,7 +16,7 @@ if sys.version_info[0] < 3:
     	Windows: https://www.python.org/downloads/\n\n'''
 		+Fore.GREEN+'''Usage:'''
     	+Fore.YELLOW+'''
-    	python pupi.py
+    	python3 pupi.py
     	py -3 pupi.py''')
     sys.exit()
 
